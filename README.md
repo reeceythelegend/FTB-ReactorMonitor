@@ -7,8 +7,12 @@ There are 3 parts to this:
 - monitorreactors.lua - displays stats about the reactors to a display (4x3)
 
 ## Reactor API
-Commands: 
+
 ### Enable Reactor
+
+Command Example:
+![Enable reactor command example](/reactorApiCommandExample.png)
+
 
 ```
 reactorApi.enable(1)
@@ -34,11 +38,12 @@ Get status of reactor 1
 ```
 reactorApi.enableAll()
 ```
-Enables all reactors
 
 ### Disable All Reactors 
 
 ```
 reactorApi.disableAll()
 ```
-Disables all reactors
+
+## Reactor Monitor
+![4x3 Reactor Monitoring Display](/reactorMonitorDisplay.png)
