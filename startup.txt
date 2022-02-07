@@ -1,0 +1,6 @@
+shell.openTab('monitorReactors')
+
+os.loadAPI('reactorApi')
+shell.run('lua')
+shell.openTab('bg')
+
