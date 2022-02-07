@@ -4,7 +4,7 @@
 There are 3 parts to this:
 - startup script - runs reactorapi.lua and monitorreactors.lua on when the computer boots
 - reactorapi - allows control of the reactor via lua cmdline on the computer
-- monitorreactors.lua - displays stats about the reactors to a display (4x3)
+- monitorreactors - displays stats about the reactors to a display (4x3)
 
 ## Reactor Monitor Preview
 ![4x3 Reactor Monitoring Display](/reactorMonitorDisplay.png)
