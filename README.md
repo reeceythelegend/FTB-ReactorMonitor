@@ -1,5 +1,5 @@
 # FTB-ReactorMonitor
- Monitor and control BigReactors using their [API](https://ftbwiki.org/Reactor_Computer_Port) using [ComputerCraft](http://www.computercraft.info/wiki/Main_Page) mod for [FTB Direwolf20 1.7.10](https://www.curseforge.com/minecraft/modpacks/ftb-presents-direwolf20)
+ Monitor and control BigReactors using the [BigReactors API & Computer Port](https://ftbwiki.org/Reactor_Computer_Port) and the [ComputerCraft](http://www.computercraft.info/wiki/Main_Page) mod for [FTB Direwolf20 1.7.10](https://www.curseforge.com/minecraft/modpacks/ftb-presents-direwolf20)
 
 There are 3 parts to this:
 - startup script - runs reactorapi.lua and monitorreactors.lua on when the computer boots
