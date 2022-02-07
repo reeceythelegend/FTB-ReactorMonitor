@@ -11,11 +11,10 @@ There are 3 parts to this:
 
 ## Reactor API
 
-### Enable Reactor
-
-Command Example:
+Example:
 ![Enable reactor command example](/reactorApiCommandExample.png)
 
+### Enable Reactor
 ```
 reactorApi.enable(1)
 ```
